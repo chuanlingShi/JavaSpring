@@ -1,0 +1,5 @@
+com\demo\spring\jpa\EmployeeRepository.class
+com\demo\spring\jpa\Employee.class
+com\demo\spring\jpa\EmployeeJpaConfig.class
+com\demo\spring\jpa\EmployeeService.class
+com\demo\spring\jpa\EmployeeJpaMain.class

@@ -1,0 +1,14 @@
+package com.demo.stereotype;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class A {
+    public A() {
+        System.out.println("Constructor A");
+    }
+
+    public void method1() {
+        System.out.println("Method 1 of A");
+    }
+}
